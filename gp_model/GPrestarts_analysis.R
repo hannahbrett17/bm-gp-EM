@@ -2,7 +2,7 @@
 # Corresponds to section 3.6.1 of thesis
 
 #load EM functions
-source("../gp_model/GaussianProcessEM.R")
+source("GaussianProcessEM.R")
 
 # --------SIMULATING GPMM--------- #
 # Simulating GP mixture model to apply EM alg

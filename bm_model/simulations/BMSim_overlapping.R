@@ -2,7 +2,7 @@
 # Corresponds to Section 2.4.3 of thesis
 
 # load EM functions
-source("../bm_model/bm_em.R")
+source("../bm_em.R")
 
 # --------SIMULATING BMMM--------- #
 # Simulating Brownian motion mixture model to apply EM alg

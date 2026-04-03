@@ -1,6 +1,9 @@
 # bm-gp-EM
 This contains the implementation and simulation code for Final Year Project on mixture models for stochastic processes:
 
+**Chapter 1: **
+- Log-liklihood surface plot (Section 1.2.3) 
+
 **Chapter 2: Brownian motion mixture models**
 - EM algorithm for Brownian motion mixtures (Section 2.3)
 - Brownian motion simulations with EM results (Section 2.4)

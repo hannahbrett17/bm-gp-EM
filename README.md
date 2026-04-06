@@ -1,5 +1,5 @@
 # bm-gp-EM
-This contains the implementation and simulation code for Final Year Project on mixture models for stochastic processes:
+This contains the implementation and simulation code for my Final Year Project on mixture models for stochastic processes:
 
 **Chapter 1:**
 - Log-liklihood surface plot (Section 1.2.3) 
